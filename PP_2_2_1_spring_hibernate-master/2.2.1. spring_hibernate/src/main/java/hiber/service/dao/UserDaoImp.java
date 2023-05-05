@@ -1,4 +1,4 @@
-package hiber.dao;
+package hiber.service.dao;
 
 import hiber.model.User;
 import org.hibernate.SessionFactory;

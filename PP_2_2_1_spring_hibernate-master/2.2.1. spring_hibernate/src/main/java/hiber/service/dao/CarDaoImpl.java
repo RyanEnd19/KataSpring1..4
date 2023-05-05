@@ -1,4 +1,4 @@
-package hiber.dao;
+package hiber.service.dao;
 
 import hiber.model.Car;
 import org.hibernate.SessionFactory;

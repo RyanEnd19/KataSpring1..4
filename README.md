@@ -1,1 +1,0 @@
-# KataSpring1..4
