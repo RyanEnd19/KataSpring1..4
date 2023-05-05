@@ -14,12 +14,12 @@ public class CarDaoImpl implements CarDao {
     private SessionFactory sessionFactory;
 
     @Override
-    public void add(Car car) {
+    public void addCar(Car car) {
         sessionFactory.getCurrentSession().save(car);
     }
 
     @Override
-    public List<Car> listCars() {
+    public List<Car> getListCars() {
         return null;
     }
 }
